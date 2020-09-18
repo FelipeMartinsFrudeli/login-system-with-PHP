@@ -14,9 +14,7 @@ Login: login
 
 Senha: Senha
 
-7. Estilize-o pelo CSS com sua preferencia se quiser tamben pode fazer um sistema de cadastramento com database.
-
-(O projeto vem com um site de inspiração e não plagio) 
+7. Estilize-o pelo CSS com sua preferencia se quiser também pode fazer um sistema de cadastramento com database,
 
 
 
